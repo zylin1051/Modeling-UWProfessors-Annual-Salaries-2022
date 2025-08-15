@@ -14,3 +14,4 @@ distribution of annual salaries of university professors in 2022 in
 Ontario, Canada. The professors here refer to those with position titles
 "assistant professor", "associate professor", and "professor".
 "Lecturer" is not included in the analysis.
+
